@@ -1,0 +1,5 @@
+rootProject.name = 'ForestStorageAPI'
+include 'paper'
+include 'bungee'
+include 'velocity'
+
